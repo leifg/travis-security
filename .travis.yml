@@ -1,0 +1,4 @@
+dist: trusty
+sudo: false
+script:
+  - cat brute_force.txt
